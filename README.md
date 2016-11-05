@@ -6,15 +6,15 @@
 # Usage
 
 ```bash
-brew install https://github.com/jbialy/ffmpeg-decklink/raw/master/Library/Formula/decklink.rb
-brew install https://github.com/jbialy/ffmpeg-decklink/raw/master/Library/Formula/ffmpeg.rb --with-decklink
+brew install https://github.com/fergusean/ffmpeg-decklink/raw/master/Library/Formula/decklink.rb
+brew install https://github.com/fergusean/ffmpeg-decklink/raw/master/Library/Formula/ffmpeg.rb --with-decklink
 ```
 
 To include faac support:
 
 ```bash
-brew install https://github.com/jbialy/ffmpeg-decklink/raw/master/Library/Formula/decklink.rb
-brew install https://github.com/jbialy/ffmpeg-decklink/raw/master/Library/Formula/ffmpeg.rb --with-decklink --with-faac
+brew install https://github.com/fergusean/ffmpeg-decklink/raw/master/Library/Formula/decklink.rb
+brew install https://github.com/fergusean/ffmpeg-decklink/raw/master/Library/Formula/ffmpeg.rb --with-decklink --with-faac
 ```
 
 # Encoding Examples
