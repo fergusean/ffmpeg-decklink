@@ -210,3 +210,4 @@ class Ffmpeg < Formula
     assert (testpath/"video.mp4").exist?
   end
 end
+
